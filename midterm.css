@@ -1,0 +1,103 @@
+body {
+    background-color: #FFEEDD;
+    margin: 0px
+}
+
+h1 {
+    text-align: center;
+    margin: -10px;
+    padding: 30px;
+    color: rgb(186, 51, 89);
+    background-image: url(background/background3.jpg);
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    color: rgb(186, 51, 89);
+    background-image: url(background/background5.jpg);
+    background-size: cover;
+
+}
+
+footer {
+    background-image: url(background/background3.jpg);
+    background-size: cover;
+    background-color: #f58753;
+    text-align: center;
+    color: rgb(186, 51, 89);
+    padding: 10px;
+}
+
+.clearfix {
+    clear: both;
+}
+
+main {
+    padding: 20px;
+
+}
+
+article {
+    float: left;
+    width: 48%;
+}
+
+aside {
+    float: right;
+    width: 47%;
+    text-align: center;
+
+}
+
+.design {
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 10px;
+}
+
+.me {
+    color: rgb(186, 51, 89);
+    text-align: center;
+}
+
+.experience {
+    font-size: 20px;
+}
+
+.motto {
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-color: #FFB5B5;
+    color: rgb(186, 51, 89);
+    padding: 8px;
+    text-align: center;
+
+}
+
+.skill {
+    padding: 10px;
+    font-size: large;
+
+}
+
+
+nav {
+    color: rgb(186, 51, 89);
+    text-align: center;
+    background-color: #f9c8c8;
+
+}
+
+nav a {
+    color: rgb(186, 51, 89);
+    padding: 14px 16px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #FFDAC8;
+    color: rgb(186, 51, 89);
+}
